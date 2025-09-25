@@ -1,1 +1,12 @@
-hello vishal
+A Simple Workflow
+Here’s how they fit together:
+
+You start your day by running git pull to make sure your local main branch has the latest updates from the team.
+
+You create a new branch, write some code, and push it to GitHub.
+
+On the GitHub website, you open a Pull Request to ask for your new code to be merged into main.
+
+Your team reviews your code, approves the Pull Request, and merges it.
+
+Now the main branch on GitHub is updated. You switch back to your local main branch and run git pull again to get those newly merged changes.
